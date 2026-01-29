@@ -1,6 +1,6 @@
 # Grade Classification
 
-*This document is adapted from the UCC Skill's Centre (document entitled NUI Marks Bands)[https://www.ucc.ie/en/media/support/skillscentre/pdfx27sampbookmarks/NUIMarksBands.pdf].
+*This document is adapted from the UCC Skill's Centre [document entitled NUI Marks Bands](https://www.ucc.ie/en/media/support/skillscentre/pdfx27sampbookmarks/NUIMarksBands.pdf).
 While it is a National University of Ireland policy, I think it reflects the general consensus of award classifications across Ireland.*
 
 | Classication                | Mark Range (of out 100) |
